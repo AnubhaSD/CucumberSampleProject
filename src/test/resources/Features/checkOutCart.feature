@@ -21,7 +21,7 @@ And user is navigated to the cart
 And user clicks on checkout button
 And provide the user information
 	|firstname| lastname| zip		|
-	| Anubha 	| D				| 95054	|
+	| Kunal 	| D				| 95054	|
 And press continue button
 And user is navigated to next page
 Then user clicks on finish
